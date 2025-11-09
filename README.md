@@ -34,7 +34,7 @@ sudo apt install fastfetch
 1️⃣ Clone este repositório:
 
 ```bash
-git clone https://github.com/seuusuario/SonicFetch.git
+git clone https://github.com/JLpensador/Sonicfetch.git
 ```
 
 2️⃣ Crie (caso não exista) a pasta de configuração do Fastfetch:
